@@ -3,7 +3,7 @@ export const courses = [
     id: 1,
     title: "French Pastry Fundamentals",
     chef: "Chef Marie Dubois",
-    price: 1620,
+    price: 89.99,
     skillLevel: "Beginner",
     available: true,
     image:
@@ -15,7 +15,7 @@ export const courses = [
     id: 2,
     title: "Italian Pasta Mastery",
     chef: "Chef Marco Rossi",
-    price: 1350,
+    price: 75.0,
     skillLevel: "Intermediate",
     available: true,
     image:
@@ -26,7 +26,7 @@ export const courses = [
     id: 3,
     title: "Sushi & Sashimi Workshop",
     chef: "Chef Kenji Tanaka",
-    price: 2160,
+    price: 120.0,
     skillLevel: "Advanced",
     available: false,
     image:
@@ -38,7 +38,7 @@ export const courses = [
     id: 4,
     title: "Thai Street Food Essentials",
     chef: "Chef Nok Srisai",
-    price: 1170,
+    price: 65.0,
     skillLevel: "Beginner",
     available: true,
     image:
@@ -49,7 +49,7 @@ export const courses = [
     id: 5,
     title: "Artisan Bread Baking",
     chef: "Chef Pierre Lefevre",
-    price: 1710,
+    price: 95.0,
     skillLevel: "Intermediate",
     available: true,
     image:
@@ -60,7 +60,7 @@ export const courses = [
     id: 6,
     title: "Molecular Gastronomy",
     chef: "Chef Elena Vora",
-    price: 2700,
+    price: 150.0,
     skillLevel: "Advanced",
     available: false,
     image:
@@ -71,7 +71,7 @@ export const courses = [
     id: 7,
     title: "Mexican Taco Masterclass",
     chef: "Chef Carlos Mendez",
-    price: 990,
+    price: 55.0,
     skillLevel: "Beginner",
     available: true,
     image:
@@ -83,7 +83,7 @@ export const courses = [
     id: 8,
     title: "Indian Curry & Spice Blends",
     chef: "Chef Priya Sharma",
-    price: 1260,
+    price: 70.0,
     skillLevel: "Intermediate",
     available: true,
     image:
